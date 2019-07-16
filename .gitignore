@@ -2,4 +2,6 @@
 *.pyo
 venv/
 .vscode/
-
+*.so
+*.c
+build/
